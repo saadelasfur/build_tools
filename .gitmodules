@@ -1,0 +1,32 @@
+[submodule "external/android-tools"]
+	path = external/android-tools
+	url = https://github.com/salvogiangri/android-tools.git
+	ignore = dirty
+[submodule "external/apktool"]
+	path = external/apktool
+	url = https://github.com/iBotPeaches/Apktool.git
+	ignore = dirty
+[submodule "external/erofs-utils"]
+	path = external/erofs-utils
+	url = https://github.com/sekaiacg/erofs-utils.git
+	ignore = dirty
+[submodule "external/img2sdat"]
+	path = external/img2sdat
+	url = https://github.com/salvogiangri/img2sdat.git
+	ignore = dirty
+[submodule "external/samfirm.js"]
+	path = external/samfirm.js
+	url = https://github.com/DavidArsene/samfirm.js.git
+	ignore = dirty
+[submodule "external/samloader"]
+	path = external/samloader
+	url = https://github.com/ananjaser1211/samloader.git
+	ignore = dirty
+[submodule "external/signapk"]
+	path = external/signapk
+	url = https://github.com/salvogiangri/signapk.git
+	ignore = dirty
+[submodule "external/smali"]
+	path = external/smali
+	url = https://github.com/google/smali.git
+	ignore = dirty
