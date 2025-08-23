@@ -6,6 +6,7 @@ updates:
         interval: "daily"
     ignore:
       - dependency-name: "external/erofs-utils"
+      - dependency-name: "external/img2sdat"
 
   - package-ecosystem: "github-actions"
     directory: "/"
